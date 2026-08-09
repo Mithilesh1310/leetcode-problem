@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Array
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
