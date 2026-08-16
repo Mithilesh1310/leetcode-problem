@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
 | [0622-design-circular-queue](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [1514-path-with-maximum-probability](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
