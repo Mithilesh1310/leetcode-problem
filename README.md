@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
