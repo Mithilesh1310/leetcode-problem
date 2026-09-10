@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [1514-path-with-maximum-probability](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
