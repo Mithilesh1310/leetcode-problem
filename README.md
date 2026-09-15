@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Union-Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
