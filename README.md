@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0143-reorder-list) |
+| [0633-sum-of-square-numbers](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
+| [0633-sum-of-square-numbers](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
