@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Linked List
