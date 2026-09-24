@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0062-unique-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0062-unique-paths) |
 | [0633-sum-of-square-numbers](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0633-sum-of-square-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
