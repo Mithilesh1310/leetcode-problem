@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0633-sum-of-square-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
