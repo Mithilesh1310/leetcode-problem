@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
 | [1514-path-with-maximum-probability](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
