@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0143-reorder-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
