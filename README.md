@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Combinatorics
 |  |
