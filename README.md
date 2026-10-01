@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0062-unique-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1609-even-odd-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1609-even-odd-tree) |
 ## Combinatorics
 |  |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
