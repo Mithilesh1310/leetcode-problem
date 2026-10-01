@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1609-even-odd-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1609-even-odd-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2360-longest-cycle-in-a-graph) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1609-even-odd-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1609-even-odd-tree) |
 ## Combinatorics
 |  |
 | ------- |
