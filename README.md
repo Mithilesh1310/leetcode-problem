@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0622-design-circular-queue](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
 | [1514-path-with-maximum-probability](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0839-similar-string-groups](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0839-similar-string-groups) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
