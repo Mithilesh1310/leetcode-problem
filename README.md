@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mithilesh1310/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0043-multiply-strings) |
+| [2390-removing-stars-from-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Mithilesh1310/leetcode-problem/tree/master/0143-reorder-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh1310/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Mithilesh1310/leetcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
